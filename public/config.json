@@ -1,4 +1,4 @@
 {
-    "apiUrl": "http://localhost:3000/api",
+   "apiUrl": "https://panchayat-tt8q.onrender.com/api",
     "enableDebug": true
   }
